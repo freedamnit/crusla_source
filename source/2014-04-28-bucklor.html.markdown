@@ -1,0 +1,9 @@
+---
+title: Bucklor VPN
+date: 2014-04-28
+tags: vpn bucklor
+---
+
+[Bucklor](http://jsq.me/68gh3) is a Free VPN Service designed with advanced cryptographic techniques. Premium version is also available for high-demand use.
+
+you can get it [here](http://jsq.me/68gh3).
